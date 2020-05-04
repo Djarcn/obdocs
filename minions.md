@@ -334,15 +334,18 @@ Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typin
 ### Boss and monster requirements
 | **Boss** | **QP required** | **Gear required** |
 | - | :-: | :-: |
-| Lizardman shaman | 30 | Karils Crossbow |
-| Zulrah | 75 | Armadyl chestplate, Armadyl chainskirt, Ahrim's robetop and Ahrim's robeskirt |
-| Vorkath | 205 | Armadyl chestplate, Armadyl chainskirt |
+| Lizardman shaman | 30 | Karils Crossbow or Rune Crossbow or Armadyl Crossbow |
+| Kree'arra | 75 | Karil's Leathertop and Karil's Leatherskirt or Armadyl Chestplate and Armadyl Chainskirt |
+| Commander Zilyana | 75 | Karil's Leathertop and Karil's Leatherskirt or Armadyl Chestplate and Armadyl Chainskirt |
+| K'ril Tsutsaroth | 75 | Karil's Leathertop and Karil's Leatherskirt or Armadyl Chestplate and Armadyl Chainskirt |
+| Zulrah | 75 | Armadyl Chestplate, Armadyl Chainskirt, Ahrim's robetop and Ahrim's robeskirt |
+| Vorkath | 205 | Armadyl Chestplate, Armadyl Chainskirt |
 | Giant Mole | N/A | Full Dharok's set |
 | Callisto | N/A | Full Verac's set |
 | Venenatis | N/A | Full Verac's set |
-| King Black Dragon | N/A | Anti-Dragon shield |
+| King Black Dragon | N/A | Anti-Dragon shield, Black D'Hide Top, Black D'Hide Bottom, and either Rune Crossbow or Armadyl Crossbow |
 | Corporeal Beast | N/A | Zamorakian Spear |
-| Cerberus | N/A | Bandos chestplate and Bandos tassets |
+| Cerberus | N/A | Zamorakian Spear, Bandos chestplate and Bandos tassets |
 
 # Buyable items
 
